@@ -9,7 +9,11 @@ Comparison of the frequency of tech terms used in a yearly hackernews thread.
 
 Feel free to improve upon this.
 
-![wordcloud 2019](/resources/wordclound2019.svg "wordcloud 2019")
+#### Wordcloud 2019
+![wordcloud 2019](resources/wordcloud2019.svg)
+
+#### Wordcloud 2021
+![wordcloud 2021](resources/wordcloud2021.svg)
 
 #### Words that only appeared in 2021
 
