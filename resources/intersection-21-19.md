@@ -1,0 +1,22 @@
+|tech|count|
+| --- | --- |
+|stack|74|
+|server|47|
+|aws|42|
+|django|36|
+|postgres|33|
+|react|32|
+|backend|32|
+|web|31|
+|python|28|
+|frontend|28|
+|file|27|
+|rails|24|
+|api|24|
+|database|24|
+|github|24|
+|storage|22|
+|hosting|22|
+|sql|21|
+|docker|21|
+|postgresql|21|

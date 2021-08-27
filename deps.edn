@@ -1,0 +1,5 @@
+{:paths ["src" "resources"]
+ :deps {org.clojure/clojure {:mvn/version "1.10.3"}
+        org.jsoup/jsoup {:mvn/version "1.14.1"}
+        org.clojure/data.csv {:mvn/version "1.0.0"}
+        metasoarous/oz {:mvn/version "1.6.0-alpha30"}}}

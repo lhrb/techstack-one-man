@@ -1,0 +1,22 @@
+|tech|count|
+| --- | --- |
+|rds|5|
+|encrypted|4|
+|haskell|4|
+|clojure|4|
+|xamarin|3|
+|.net|3|
+|shiny|2|
+|lisp|2|
+|tomcat|2|
+|cognito|2|
+|servlet|2|
+|runtime|2|
+|mongodb|2|
+|parallel|2|
+|filesystem|2|
+|cloudformation|1|
+|mock|1|
+|hooks|1|
+|sailsjs|1|
+|oop|1|
